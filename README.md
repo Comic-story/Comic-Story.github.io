@@ -10,7 +10,7 @@ This website features:
 - Original content created by MR.X
 
 ## Website
-🔗 Live site: https://yourusername.github.io
+🔗 Live site: https://Mr.Xstory.github.io
 
 ## Features
 - Mobile & desktop responsive
